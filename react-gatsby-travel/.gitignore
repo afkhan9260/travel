@@ -1,0 +1,2 @@
+# Ignore Gatsby and Webpack cache files
+react-gatsby-travel/.cache/
